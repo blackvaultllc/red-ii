@@ -12,5 +12,8 @@
     "command": "sistimestamp.space \u2014 operator only, no public access",
     "access": "read-only watch via GitHub. No sign-in, no deploy, no keys."
   },
-  "notes": "No keys, secrets, passwords, tokens, personal email, or phone in this file. This file grants no sign-in, no deploy, and no public path into the deck/command."
+  "notes": "No keys, secrets, passwords, tokens, personal email, or phone in this file. This file grants no sign-in, no deploy, and no public path into the deck/command.",
+  "owner_name": "Domenick Arlon Hall",
+  "owner_org": "blackvaultllc",
+  "copyright": "\u00a9 2026 Domenick Arlon Hall. All rights reserved. No part of this website or repository may be copied, solicited, duplicated, or reproduced electronically or otherwise without written permission from Domenick Arlon Hall."
 }
